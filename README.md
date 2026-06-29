@@ -166,6 +166,24 @@ firebase deploy
 
 # 📸 Screenshots
 
+## 🏠 Home Page
+
+![Home Page](./screenshots/home.png)
+
+---
+
+## 🤖 AI Generated Plan
+
+![AI Generated Plan](./screenshots/ai-plan.png)
+
+---
+
+## 📋 Task History
+
+![Task History](./screenshots/task-history.png)
+
+
+
 ## Home Page
 
 - Task Input Form
