@@ -57,7 +57,7 @@ DeadlineAI solves this problem by generating AI-powered task plans that help use
 ✅ Responsive modern UI
 
 ---
-# 🎯 Why DeadlineAI?
+#🎯 Why DeadlineAI?
 
 - Helps users stay organized.
 - Uses AI to create personalized task plans.
