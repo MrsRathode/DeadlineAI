@@ -1,4 +1,4 @@
-## 🚀 DeadlineAI – AI Productivity Companion
+### 🚀 DeadlineAI – AI Productivity Companion
 
 DeadlineAI is an AI-powered productivity assistant that helps users organize tasks, generate intelligent action plans, prioritize work, and improve time management using Google's Gemini AI.
 
